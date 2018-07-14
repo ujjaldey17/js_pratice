@@ -1,0 +1,93 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    .common_style{
+              min-height: 40px;
+              background-color: #CDE1FF;
+              margin-top: 10px;
+              text-align: center;
+}
+    .hero_action{
+              background-color: #CDE1FF;
+              margin-top: 10px;
+              min-height: 40px;
+              margin-bottom: 10px;
+              text-align: center;
+}
+    .article_feature{
+              background-color: #CDE1FF;
+              margin-top: 25px;
+              min-height: 80px;
+              margin-bottom: 10px;
+              text-align: center;
+}
+    .add{
+        background-color: #69A6DE;
+	    min-height: 80px;
+        text-align: center;
+    }
+    .article_listing{
+    background-color: #CDE1FF;
+    margin-top: 25px;
+    min-height: 150px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 991.98px) {
+    .hero_feature {
+    background-color: #CDE1FF;
+    margin-top: 25px;
+    min-height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.hero_action{
+    background-color: #CDE1FF;
+    margin-top: 10px;
+    min-height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+    .add {
+	background-color: #69A6DE;
+	min-height: 100px;
+    text-align: center;
+        margin-top: 20px;
+}
+    .article_feature{
+    background-color: #CDE1FF;
+    margin-top: 20px;
+    min-height: 100px;
+    text-align: center;
+}
+.article_listing{
+    background-color: #CDE1FF;
+    margin-top: 10px;
+    min-height: 200px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+   .sidebar{
+    background-color: #9CC3FA;
+	min-height: 80px;
+    text-align: center;
+    overflow: hidden;
+       margin-top: 10px;
+} 
+    .sidebar_part{
+     background-color: #CDE1FF;
+    min-height: 80px;
+    text-align: center;
+    margin: 10px 10px; 
+}
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+/*@media (min-width: 1200px) { ..*/

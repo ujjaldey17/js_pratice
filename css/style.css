@@ -1,0 +1,75 @@
+.common_background{
+    background-color: #9CC3FA;
+}
+header{
+    min-height: 100px;
+    background-color: #9CC3FA;
+}
+.common_style{
+    min-height: 80px;
+    background-color: #CDE1FF;
+    margin-top: 10px;
+    text-align: center;
+}
+.hero_part{
+    margin: 10px 0;
+}
+.hero_feature {
+    background-color: #CDE1FF;
+    margin-top: 25px;
+    min-height: 150px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.hero_action{
+    background-color: #CDE1FF;
+    margin-top: 25px;
+    min-height: 150px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.add {
+	background-color: #69A6DE;
+	min-height: 200px;
+    text-align: center;
+}
+.padding-right-disable{
+    padding-right: 0;
+}
+.padding_left{
+    padding-left: 0;
+}
+.article_feature{
+    background-color: #CDE1FF;
+    margin-top: 25px;
+    min-height: 350px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.article_listing{
+    background-color: #CDE1FF;
+    margin-top: 25px;
+    min-height: 350px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.sidebar{
+    background-color: #9CC3FA;
+	min-height: 400px;
+    text-align: center;
+    overflow: hidden;
+}
+.sidebar_part{
+     background-color: #CDE1FF;
+    min-height: 350px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin: 25px 10px;
+}
+footer{
+    min-height: 100px;
+    background-color: #9CC3FA;
+    text-align: center;
+    margin-top: 10px;
+}
